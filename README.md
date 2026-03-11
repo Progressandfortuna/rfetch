@@ -5,7 +5,7 @@ A Neofetch clone written in R
 
 A simple, lightweight system information tool written entirely in **R**. Because why use Bash, C, or Rust, when you can use a statistical programming language for a fetch script?
 
-![Screenshot](./assets/screenshot.png)
+![rfetch screenshot](./assets/screenshot.png)
 
 ## Features:
 
