@@ -1,5 +1,5 @@
 # rfetch
-<<<<<<< HEAD
+
 A Neofetch clone written in R
 =======
 
@@ -40,4 +40,3 @@ Just run `rfetch` in your terminal after putting in your path.
 - Linux (Tested on Arch, should work on Debian and Fedora based distributions).
 - Note that uptime and memory stats currently rely on `/proc`.
 
->>>>>>> d786ffe (Initial release of rfetch: Yet another fetch utility written in R)
